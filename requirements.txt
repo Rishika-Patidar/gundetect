@@ -1,11 +1,4 @@
 Flask==3.0.3
-matplotlib==3.8.4
 numpy==1.26.4
-opencv-python==4.7.0.72
-pillow==10.3.0
-requests==2.31.0
-torch==2.3.0
-torchaudio==2.3.0
-torchvision==0.18.0
-ultralytics==8.2.11
+opencv-python==4.7.0.7
 Werkzeug==3.0.3
